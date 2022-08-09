@@ -1,0 +1,219 @@
+# Translation of Plugins - Envato Elements &#8211; Photos &amp; Elementor Templates - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Envato Elements &#8211; Photos &amp; Elementor Templates - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-03 13:59:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Envato Elements &#8211; Photos &amp; Elementor Templates - Stable (latest release)\n"
+
+#: inc/backend/class-welcome.php:71 inc/backend/class-welcome.php:72
+msgid "Free Blocks"
+msgstr "Blocs gratuits"
+
+#: inc/backend/class-welcome.php:80 inc/backend/class-welcome.php:81
+msgid "Installed Kits"
+msgstr "Kits installés"
+
+#: inc/backend/class-welcome.php:62 inc/backend/class-welcome.php:63
+msgid "Free Kits"
+msgstr "Kits gratuits"
+
+#: inc/backend/class-welcome.php:45
+msgid "Welcome"
+msgstr "Bienvenue"
+
+#: inc/api/class-template-kit-import.php:108
+msgid "Clients"
+msgstr "Clients"
+
+#: inc/api/class-template-kit-import.php:107
+msgid "Logo Grid"
+msgstr "Grille de logos"
+
+#: inc/api/class-template-kit-import.php:106
+msgid "Gallery"
+msgstr "Galerie"
+
+#: inc/api/class-template-kit-import.php:105
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: inc/api/class-template-kit-import.php:104
+msgid "Countdown"
+msgstr "Compte à rebours"
+
+#: inc/api/class-template-kit-import.php:103
+msgid "Stats"
+msgstr "Statistiques"
+
+#: inc/api/class-template-kit-import.php:102
+msgid "Services"
+msgstr "Services"
+
+#: inc/api/class-template-kit-import.php:101
+msgid "Product"
+msgstr "Produit"
+
+#: inc/api/class-template-kit-import.php:100
+msgid "Testimonial"
+msgstr "Témoignage"
+
+#: inc/api/class-template-kit-import.php:99
+msgid "Pricing"
+msgstr "Tarification"
+
+#: inc/api/class-template-kit-import.php:98
+msgid "Features"
+msgstr "Fonctionnalités"
+
+#: inc/api/class-template-kit-import.php:97
+msgid "Map"
+msgstr "Carte"
+
+#: inc/api/class-template-kit-import.php:96
+msgid "Team"
+msgstr "Équipe"
+
+#: inc/api/class-template-kit-import.php:95
+msgid "Call to Action"
+msgstr "Appel à l’action"
+
+#: inc/api/class-template-kit-import.php:94
+msgid "Contact"
+msgstr "Contact"
+
+#: inc/api/class-template-kit-import.php:93
+msgid "FAQ"
+msgstr "FAQ"
+
+#: inc/api/class-template-kit-import.php:91
+msgid "Hero"
+msgstr "Hero"
+
+#: inc/api/class-template-kit-import.php:90
+msgid "Popup"
+msgstr "Fenêtre surgissante"
+
+#: inc/api/class-template-kit-import.php:89
+msgid "Footer"
+msgstr "Pied de page"
+
+#: inc/api/class-template-kit-import.php:88
+msgid "Header"
+msgstr "En-tête"
+
+#: inc/api/class-template-kit-import.php:87
+msgid "Archive: Category"
+msgstr "Archive : Catégorie"
+
+#: inc/api/class-template-kit-import.php:86
+msgid "Archive: Search"
+msgstr "Archive : Rechercher"
+
+#: inc/api/class-template-kit-import.php:85
+msgid "Archive: Product"
+msgstr "Archive : Produit"
+
+#: inc/api/class-template-kit-import.php:84
+msgid "Archive: Blog"
+msgstr "Archive : Blog"
+
+#: inc/api/class-template-kit-import.php:82
+msgid "Single: 404"
+msgstr "Unique : 404"
+
+#: inc/api/class-template-kit-import.php:81
+msgid "Single: Product"
+msgstr "Unique : Produit"
+
+#: inc/api/class-template-kit-import.php:80
+msgid "Single: Post"
+msgstr "Unique : Article"
+
+#: inc/api/class-template-kit-import.php:79
+msgid "Single: Home"
+msgstr "Unique : Accueil"
+
+#: inc/api/class-template-kit-import.php:78
+msgid "Single: Page"
+msgstr "Unique : Page"
+
+#: inc/api/class-requirements.php:300
+msgid "Sorry, you are not allowed to install themes on this site."
+msgstr "Désolé, vous n’êtes pas autorisé à installer des thèmes sur ce site."
+
+#: inc/api/class-requirements.php:259 inc/api/class-requirements.php:346
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "Impossible de se connecter au système de fichiers. Veuillez confirmer vos informations."
+
+#. Description of the plugin
+msgid "Access beautifully designed Template Kits + Photos from Envato Elements."
+msgstr "Accédez à des kits de modèles et des photos magnifiquement conçus par Envato Elements."
+
+#: inc/api/class-template-kit-import.php:92
+msgid "About"
+msgstr "À propos de"
+
+#. Author URI of the plugin
+msgid "https://elements.envato.com/extensions/wordpress/?utm_source=extensions&utm_medium=referral&utm_campaign=elements_extensions_wpplugins"
+msgstr "https://elements.envato.com/extensions/wordpress/?utm_source=extensions&utm_medium=referral&utm_campaign=elements_extensions_wpplugins"
+
+#: inc/backend/class-welcome.php:89 inc/backend/class-welcome.php:90
+msgid "Photos"
+msgstr "Photos"
+
+#: inc/backend/class-welcome.php:98 inc/backend/class-welcome.php:99
+msgid "Settings"
+msgstr "Réglages "
+
+#: inc/api/class-template-kit-import.php:109
+msgid "Other"
+msgstr "Autres"
+
+#: inc/backend/class-welcome.php:53 inc/backend/class-welcome.php:54
+msgid "Template Kits"
+msgstr "Kits de modèle"
+
+#: inc/backend/class-welcome.php:33
+msgid "Elements"
+msgstr "Éléments"
+
+#: envato-elements.php:83
+msgid "7.2 or above"
+msgstr "7.2 ou supérieure"
+
+#. translators: %s: PHP version
+#: envato-elements.php:78
+msgid "Envato Elements requires PHP version %s+, plugin is currently NOT ACTIVE. Please contact the hosting provider. WordPress recommends version %s."
+msgstr "Envato Elements nécessite PHP version %s ou supérieure, l’extension n’est actuellement pas active. Veuillez contacter votre hébergeur. WordPress recommande la version %s."
+
+#. Author of the plugin
+msgid "Envato"
+msgstr "Envato"
+
+#. Plugin Name of the plugin
+#: inc/backend/class-welcome.php:32 inc/backend/class-welcome.php:44
+msgid "Envato Elements"
+msgstr "Envato Elements"
+
+#: inc/utils/class-base.php:51 inc/utils/class-base.php:62
+msgid "Something went wrong."
+msgstr "Quelque chose s’est mal passé."
+
+#: inc/utils/class-extensions-api.php:155
+msgid "An error occurred, please try again"
+msgstr "Une erreur est survenue, veuillez réessayer"
+
+#: inc/utils/class-extensions-api.php:161
+msgid "HTTP Error"
+msgstr "Erreur HTTP"
+
+#. translators: %s: WordPress version
+#: envato-elements.php:102
+msgid "Envato Elements requires WordPress version %s+. Because you are using an earlier version, the plugin is currently NOT ACTIVE."
+msgstr "Envato Elements nécessite WordPress version %s ou supérieure. Vous utilisez une version antérieure, l’extension n’est actuellement pas active."

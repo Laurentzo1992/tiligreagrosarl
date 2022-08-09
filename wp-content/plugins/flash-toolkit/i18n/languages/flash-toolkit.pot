@@ -1,0 +1,1265 @@
+# Copyright (C) 2020 ThemeGrill
+# This file is distributed under the GPLv3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Flash Toolkit 1.2.2\n"
+"Report-Msgid-Bugs-To: themegrill@gmail.com\n"
+"POT-Creation-Date: 2020-07-22 06:33:35+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n1.0.1\n"
+
+#: flash-toolkit.php:62 flash-toolkit.php:71
+#: includes/admin/class-flash-admin-notices.php:243
+#: includes/class-flash-sidebars.php:98
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Flash Toolkit"
+msgstr ""
+
+#: flash-toolkit.php:185
+msgid "This plugin requires %s by ThemeGrill to work."
+msgstr ""
+
+#: flash-toolkit.php:185
+msgid "Flash Theme"
+msgstr ""
+
+#: includes/abstracts/abstract-flash-widget.php:239
+#: includes/abstracts/abstract-flash-widget.php:261
+#: includes/admin/meta-boxes/class-flash-meta-box-portfolio-data.php:34
+#: includes/widgets/class-flash-widget-about.php:37
+#: includes/widgets/class-flash-widget-about.php:43
+#: includes/widgets/class-flash-widget-about.php:49
+#: includes/widgets/class-flash-widget-about.php:56
+#: includes/widgets/class-flash-widget-about.php:64
+#: includes/widgets/class-flash-widget-blog.php:38
+#: includes/widgets/class-flash-widget-blog.php:40
+#: includes/widgets/class-flash-widget-blog.php:51
+#: includes/widgets/class-flash-widget-blog.php:63
+#: includes/widgets/class-flash-widget-counter.php:37
+#: includes/widgets/class-flash-widget-counter.php:44
+#: includes/widgets/class-flash-widget-counter.php:53
+#: includes/widgets/class-flash-widget-cta.php:37
+#: includes/widgets/class-flash-widget-cta.php:43
+#: includes/widgets/class-flash-widget-cta.php:49
+#: includes/widgets/class-flash-widget-cta.php:56
+#: includes/widgets/class-flash-widget-cta.php:63
+#: includes/widgets/class-flash-widget-cta.php:70
+#: includes/widgets/class-flash-widget-portfolio.php:44
+#: includes/widgets/class-flash-widget-portfolio.php:53
+#: includes/widgets/class-flash-widget-portfolio.php:61
+#: includes/widgets/class-flash-widget-service.php:37
+#: includes/widgets/class-flash-widget-service.php:48
+#: includes/widgets/class-flash-widget-service.php:56
+#: includes/widgets/class-flash-widget-service.php:63
+#: includes/widgets/class-flash-widget-service.php:69
+#: includes/widgets/class-flash-widget-service.php:75
+#: includes/widgets/class-flash-widget-service.php:82
+#: includes/widgets/class-flash-widget-slider.php:38
+#: includes/widgets/class-flash-widget-slider.php:47
+#: includes/widgets/class-flash-widget-team.php:37
+#: includes/widgets/class-flash-widget-team.php:44
+#: includes/widgets/class-flash-widget-team.php:51
+#: includes/widgets/class-flash-widget-team.php:57
+#: includes/widgets/class-flash-widget-team.php:63
+#: includes/widgets/class-flash-widget-team.php:69
+#: includes/widgets/class-flash-widget-team.php:75
+#: includes/widgets/class-flash-widget-testimonial.php:38
+msgid "General"
+msgstr ""
+
+#: includes/abstracts/abstract-flash-widget.php:365
+#: includes/abstracts/abstract-flash-widget.php:573
+msgid "Remove media"
+msgstr ""
+
+#: includes/abstracts/abstract-flash-widget.php:373
+#: includes/abstracts/abstract-flash-widget.php:581
+msgid "Choose an image"
+msgstr ""
+
+#: includes/abstracts/abstract-flash-widget.php:373
+#: includes/abstracts/abstract-flash-widget.php:581
+msgid "Use image"
+msgstr ""
+
+#: includes/abstracts/abstract-flash-widget.php:373
+#: includes/abstracts/abstract-flash-widget.php:581
+msgid "Select an Image"
+msgstr ""
+
+#: includes/abstracts/abstract-flash-widget.php:400
+#: includes/abstracts/abstract-flash-widget.php:591
+msgid "Choose icons&hellip;"
+msgstr ""
+
+#: includes/abstracts/abstract-flash-widget.php:400
+#: includes/abstracts/abstract-flash-widget.php:591
+msgid "Icon"
+msgstr ""
+
+#: includes/abstracts/abstract-flash-widget.php:414
+msgid "Choose fonts&hellip;"
+msgstr ""
+
+#: includes/abstracts/abstract-flash-widget.php:414
+msgid "Font"
+msgstr ""
+
+#: includes/abstracts/abstract-flash-widget.php:428
+msgid "Choose"
+msgstr ""
+
+#: includes/abstracts/views/html-admin-tmpl-repeater.php:30
+#: includes/abstracts/views/html-admin-tmpl-repeater.php:55
+msgid "Delete"
+msgstr ""
+
+#: includes/abstracts/views/html-admin-tmpl-repeater.php:30
+#: includes/abstracts/views/html-admin-tmpl-repeater.php:55
+msgid "Close"
+msgstr ""
+
+#: includes/abstracts/views/html-admin-tmpl-repeater.php:64
+msgid "When you add field, it will appear here."
+msgstr ""
+
+#: includes/abstracts/views/html-admin-tmpl-repeater.php:65
+msgid "Create your first field!"
+msgstr ""
+
+#: includes/admin/class-flash-admin-assets.php:102
+msgid "You can add upto %s fields."
+msgstr ""
+
+#: includes/admin/class-flash-admin-assets.php:131
+msgid ""
+"Delete this Sidebar Permanently and store all widgets in Inactive Sidebar. "
+"Are you positive you want to delete this Sidebar?"
+msgstr ""
+
+#: includes/admin/class-flash-admin-meta-boxes.php:100
+msgid "Portfolio Data"
+msgstr ""
+
+#: includes/admin/class-flash-admin-meta-boxes.php:104
+msgid "Page Options"
+msgstr ""
+
+#: includes/admin/class-flash-admin-meta-boxes.php:111
+msgid "%s Layout"
+msgstr ""
+
+#: includes/admin/class-flash-admin-notices.php:112
+msgid "Unlock true potential of Flash!"
+msgstr ""
+
+#: includes/admin/class-flash-admin-notices.php:117
+msgid ""
+"Howdy, %1$s! You've been using %2$s for a while now, and we hope you're "
+"happy with it. If you need more options and want to get access to the "
+"premium features, check the pricing by clicking link below. Also, you can "
+"use the coupon code %3$s to get 15 percent discount while making the "
+"purchase. Enjoy!"
+msgstr ""
+
+#: includes/admin/class-flash-admin-notices.php:137
+msgid "Go Pro"
+msgstr ""
+
+#: includes/admin/class-flash-admin-notices.php:142
+msgid "Remind me later"
+msgstr ""
+
+#: includes/admin/class-flash-admin-notices.php:147
+msgid "I already have Pro version"
+msgstr ""
+
+#: includes/admin/class-flash-admin-notices.php:152
+msgid "Got any queries?"
+msgstr ""
+
+#: includes/admin/class-flash-admin-notices.php:239
+#: includes/class-flash-sidebars.php:94
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: includes/admin/class-flash-admin-permalink-settings.php:43
+msgid "Portfolio Permalinks"
+msgstr ""
+
+#: includes/admin/class-flash-admin-permalink-settings.php:48
+msgid "Portfolio category base"
+msgstr ""
+
+#: includes/admin/class-flash-admin-permalink-settings.php:55
+msgid "Portfolio tag base"
+msgstr ""
+
+#: includes/admin/class-flash-admin-permalink-settings.php:86
+msgid "These settings control the permalinks specifically used for portfolio."
+msgstr ""
+
+#: includes/admin/class-flash-admin-permalink-settings.php:101
+msgid "Default"
+msgstr ""
+
+#: includes/admin/class-flash-admin-permalink-settings.php:105
+msgid "Project base"
+msgstr ""
+
+#: includes/admin/class-flash-admin-permalink-settings.php:109
+msgid "Project based category"
+msgstr ""
+
+#: includes/admin/class-flash-admin-permalink-settings.php:114
+msgid "Custom Base"
+msgstr ""
+
+#: includes/admin/class-flash-admin-permalink-settings.php:116
+msgid ""
+"Enter a custom base to use. A base <strong>must</strong> be set or "
+"WordPress will use default instead."
+msgstr ""
+
+#: includes/admin/class-flash-admin-post-types.php:54
+msgid "Project updated. <a href=\"%s\">View Project</a>"
+msgstr ""
+
+#: includes/admin/class-flash-admin-post-types.php:55
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/admin/class-flash-admin-post-types.php:56
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/admin/class-flash-admin-post-types.php:57
+msgid "Project updated."
+msgstr ""
+
+#: includes/admin/class-flash-admin-post-types.php:58
+msgid "Project restored to revision from %s"
+msgstr ""
+
+#: includes/admin/class-flash-admin-post-types.php:59
+msgid "Project published. <a href=\"%s\">View Project</a>"
+msgstr ""
+
+#: includes/admin/class-flash-admin-post-types.php:60
+msgid "Project saved."
+msgstr ""
+
+#: includes/admin/class-flash-admin-post-types.php:61
+msgid "Project submitted. <a target=\"_blank\" href=\"%s\">Preview project</a>"
+msgstr ""
+
+#: includes/admin/class-flash-admin-post-types.php:62
+msgid ""
+"Project scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview project</a>"
+msgstr ""
+
+#: includes/admin/class-flash-admin-post-types.php:63
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: includes/admin/class-flash-admin-post-types.php:64
+msgid "Project draft updated. <a target=\"_blank\" href=\"%s\">Preview project</a>"
+msgstr ""
+
+#: includes/admin/class-flash-admin-post-types.php:79
+msgid "%s project updated."
+msgid_plural "%s projects updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/class-flash-admin-post-types.php:80
+msgid "%s project not updated, somebody is editing it."
+msgid_plural "%s projects not updated, somebody is editing them."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/class-flash-admin-post-types.php:81
+msgid "%s project permanently deleted."
+msgid_plural "%s projects permanently deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/class-flash-admin-post-types.php:82
+msgid "%s project moved to the Trash."
+msgid_plural "%s projects moved to the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/class-flash-admin-post-types.php:83
+msgid "%s project restored from the Trash."
+msgid_plural "%s projects restored from the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/class-flash-admin-post-types.php:98
+msgid "Project name"
+msgstr ""
+
+#: includes/admin/class-flash-admin.php:72
+msgid ""
+"If you like <strong>Flash Toolkit</strong> please leave us a "
+"%s&#9733;&#9733;&#9733;&#9733;&#9733;%s rating. A huge thanks in advance!"
+msgstr ""
+
+#: includes/admin/class-flash-admin.php:72
+msgid "Thanks :)"
+msgstr ""
+
+#: includes/admin/class-flash-admin.php:80
+msgid "Thank you for creating with Flash Toolkit."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:37
+msgid "Layout Settings"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:38
+msgid "Default Layout"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:39
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:40
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:41
+msgid "Full Width"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:42
+msgid "Full Width Center"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:43
+msgid "Select the specific layout for this entry."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:46
+msgid "Sidebar Settings"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:46
+msgid "Choose a custom sidebar for this entry."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:49
+msgid "Footer Settings"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:50
+msgid "Default Socket and Widgets"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:51
+msgid "Both Socket and Widgets"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:52
+msgid "Only Widgets (No Socket)"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:53
+msgid "Only Socket (No Widgets)"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:54
+msgid "Hide Socket and Widgets"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:55
+msgid "Display the socket and footer widgets?"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:58
+msgid "Header Transparency"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:59
+msgid "No Transparency"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:60
+msgid "Transparent Header"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:61
+msgid "Header transparency options on this page."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:64
+msgid "Top Sidebar Position"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:65
+msgid "None"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:66
+msgid "Above Header"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:67
+msgid "Below Header"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:68
+msgid "Top Sidebar Position options on this page."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-pageoptions-data.php:34
+msgid "Page Header"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-pageoptions-data.php:56
+msgid "Page Header Size"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-pageoptions-data.php:58
+msgid "From Theme Options"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-pageoptions-data.php:59
+msgid "Small"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-pageoptions-data.php:60
+msgid "Medium"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-pageoptions-data.php:61
+msgid "Big"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-pageoptions-data.php:70
+msgid "Hide Pageheader"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-portfolio-data.php:39
+#: includes/admin/meta-boxes/class-flash-meta-box-portfolio-data.php:82
+#: includes/widgets/class-flash-widget-slider.php:56
+#: includes/widgets/class-flash-widget-slider.php:57
+#: includes/widgets/class-flash-widget-team.php:56
+#: includes/widgets/class-flash-widget-testimonial.php:66
+#: includes/widgets/class-flash-widget-testimonial.php:67
+msgid "Description"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-portfolio-data.php:61
+msgid "Layout Type"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-portfolio-data.php:63
+msgid "One Column"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-portfolio-data.php:64
+msgid "Two Column"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-flash-meta-box-portfolio-data.php:67
+msgid "Define whether or not the entire layout should be one or two column based."
+msgstr ""
+
+#: includes/admin/views/html-admin-tmpl-sidebars.php:13
+msgid "Custom Widget Area Builder"
+msgstr ""
+
+#: includes/admin/views/html-admin-tmpl-sidebars.php:15
+msgid "Enter New Widget Area Name"
+msgstr ""
+
+#: includes/admin/views/html-admin-tmpl-sidebars.php:16
+msgid "Add Widget Area"
+msgstr ""
+
+#: includes/admin/views/html-notice-custom.php:12
+#: includes/admin/views/html-notice-updated.php:12
+msgid "Dismiss"
+msgstr ""
+
+#: includes/admin/views/html-notice-update.php:12
+#: includes/admin/views/html-notice-updating.php:12
+msgid "FlashToolkit Data Update"
+msgstr ""
+
+#: includes/admin/views/html-notice-update.php:12
+msgid "We need to update your site's database to the latest version."
+msgstr ""
+
+#: includes/admin/views/html-notice-update.php:13
+msgid "Run the updater"
+msgstr ""
+
+#: includes/admin/views/html-notice-update.php:17
+msgid ""
+"It is strongly recommended that you backup your database before proceeding. "
+"Are you sure you wish to run the updater now?"
+msgstr ""
+
+#: includes/admin/views/html-notice-updated.php:14
+msgid ""
+"FlashToolkit data update complete. Thank you for updating to the latest "
+"version!"
+msgstr ""
+
+#: includes/admin/views/html-notice-updating.php:12
+msgid "Your database is being updated in the background."
+msgstr ""
+
+#: includes/admin/views/html-notice-updating.php:12
+msgid "Taking a while? Click here to run it now."
+msgstr ""
+
+#: includes/class-flash-install.php:312
+msgid "View Flash Toolkit Documentation"
+msgstr ""
+
+#: includes/class-flash-install.php:312
+msgid "Docs"
+msgstr ""
+
+#: includes/class-flash-install.php:313
+msgid "Visit Free Customer Support Forum"
+msgstr ""
+
+#: includes/class-flash-install.php:313
+msgid "Free Support"
+msgstr ""
+
+#: includes/class-flash-post-types.php:50
+msgid "Categories"
+msgstr ""
+
+#: includes/class-flash-post-types.php:52
+msgid "Project Categories"
+msgstr ""
+
+#: includes/class-flash-post-types.php:53
+msgid "Category"
+msgstr ""
+
+#: includes/class-flash-post-types.php:55
+msgid "Search Categories"
+msgstr ""
+
+#: includes/class-flash-post-types.php:56
+msgid "All Categories"
+msgstr ""
+
+#: includes/class-flash-post-types.php:57
+msgid "Parent Category"
+msgstr ""
+
+#: includes/class-flash-post-types.php:58
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/class-flash-post-types.php:59
+msgid "Edit Category"
+msgstr ""
+
+#: includes/class-flash-post-types.php:60
+msgid "Update Category"
+msgstr ""
+
+#: includes/class-flash-post-types.php:61
+msgid "Add New Category"
+msgstr ""
+
+#: includes/class-flash-post-types.php:62
+msgid "New Category Name"
+msgstr ""
+
+#: includes/class-flash-post-types.php:63
+msgid "No categories found"
+msgstr ""
+
+#: includes/class-flash-post-types.php:85
+msgid "Tags"
+msgstr ""
+
+#: includes/class-flash-post-types.php:87
+msgid "Project Tags"
+msgstr ""
+
+#: includes/class-flash-post-types.php:88
+msgid "Tag"
+msgstr ""
+
+#: includes/class-flash-post-types.php:90
+msgid "Search Tags"
+msgstr ""
+
+#: includes/class-flash-post-types.php:91
+msgid "All Tags"
+msgstr ""
+
+#: includes/class-flash-post-types.php:92
+msgid "Edit Tag"
+msgstr ""
+
+#: includes/class-flash-post-types.php:93
+msgid "Update Tag"
+msgstr ""
+
+#: includes/class-flash-post-types.php:94
+msgid "Add New Tag"
+msgstr ""
+
+#: includes/class-flash-post-types.php:95
+msgid "New Tag Name"
+msgstr ""
+
+#: includes/class-flash-post-types.php:96
+msgid "Popular Tags"
+msgstr ""
+
+#: includes/class-flash-post-types.php:97
+msgid "Separate Tags with commas"
+msgstr ""
+
+#: includes/class-flash-post-types.php:98
+msgid "Add or remove Tags"
+msgstr ""
+
+#: includes/class-flash-post-types.php:99
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: includes/class-flash-post-types.php:100
+msgid "No tags found"
+msgstr ""
+
+#: includes/class-flash-post-types.php:136
+msgid "Projects"
+msgstr ""
+
+#: includes/class-flash-post-types.php:137
+msgid "Project"
+msgstr ""
+
+#: includes/class-flash-post-types.php:139
+msgid "All Projects"
+msgstr ""
+
+#: includes/class-flash-post-types.php:140
+msgid "Add Project"
+msgstr ""
+
+#: includes/class-flash-post-types.php:141
+msgid "Add New Project"
+msgstr ""
+
+#: includes/class-flash-post-types.php:142
+msgid "Edit"
+msgstr ""
+
+#: includes/class-flash-post-types.php:143
+msgid "Edit Project"
+msgstr ""
+
+#: includes/class-flash-post-types.php:144
+msgid "New Project"
+msgstr ""
+
+#: includes/class-flash-post-types.php:145
+#: includes/class-flash-post-types.php:146
+msgid "View Project"
+msgstr ""
+
+#: includes/class-flash-post-types.php:147
+msgid "Search Projects"
+msgstr ""
+
+#: includes/class-flash-post-types.php:148
+msgid "No Projects found"
+msgstr ""
+
+#: includes/class-flash-post-types.php:149
+msgid "No Projects found in trash"
+msgstr ""
+
+#: includes/class-flash-post-types.php:150
+msgid "Parent Project"
+msgstr ""
+
+#: includes/class-flash-post-types.php:151
+msgid "Project Image"
+msgstr ""
+
+#: includes/class-flash-post-types.php:152
+msgid "Set project image"
+msgstr ""
+
+#: includes/class-flash-post-types.php:153
+msgid "Remove project image"
+msgstr ""
+
+#: includes/class-flash-post-types.php:154
+msgid "Use as project image"
+msgstr ""
+
+#: includes/class-flash-post-types.php:155
+msgid "Insert into project"
+msgstr ""
+
+#: includes/class-flash-post-types.php:156
+msgid "Uploaded to this project"
+msgstr ""
+
+#: includes/class-flash-post-types.php:157
+msgid "Filter Projects"
+msgstr ""
+
+#: includes/class-flash-post-types.php:158
+msgid "Projects navigation"
+msgstr ""
+
+#: includes/class-flash-post-types.php:159
+msgid "Projects list"
+msgstr ""
+
+#: includes/class-flash-post-types.php:161
+msgid "This is where you can add new portfolio items to your project."
+msgstr ""
+
+#: includes/class-flash-sidebars.php:124
+msgid "Custom Widget Area of the site - %s "
+msgstr ""
+
+#: includes/functions-flash-widget.php:84
+msgid "Flash Toolkit Widgets"
+msgstr ""
+
+#: includes/libraries/wp-background-process.php:423
+msgid "Every %d Minutes"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-about.php:28
+msgid "About Widget."
+msgstr ""
+
+#: includes/widgets/class-flash-widget-about.php:30
+msgid "FT: About"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-about.php:36
+#: includes/widgets/class-flash-widget-counter.php:36
+#: includes/widgets/class-flash-widget-logo.php:51
+#: includes/widgets/class-flash-widget-logo.php:52
+#: includes/widgets/class-flash-widget-service.php:36
+#: includes/widgets/class-flash-widget-slider.php:51
+#: includes/widgets/class-flash-widget-slider.php:52
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-about.php:42
+#: includes/widgets/class-flash-widget-service.php:68
+msgid "Text"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-about.php:48
+#: includes/widgets/class-flash-widget-service.php:74
+msgid "Read More Text"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-about.php:55
+#: includes/widgets/class-flash-widget-service.php:81
+msgid "Read More URL"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-about.php:63
+#: includes/widgets/class-flash-widget-image.php:36
+#: includes/widgets/class-flash-widget-logo.php:57
+#: includes/widgets/class-flash-widget-slider.php:62
+#: includes/widgets/class-flash-widget-team.php:50
+#: includes/widgets/class-flash-widget-testimonial.php:57
+msgid "Image"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-blog.php:28
+msgid "Blog Widget."
+msgstr ""
+
+#: includes/widgets/class-flash-widget-blog.php:30
+msgid "FT: Blog"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-blog.php:39
+msgid "Number of Posts"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-blog.php:45
+msgid "Blog Posts Source:"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-blog.php:47
+msgid "Latest Posts"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-blog.php:48
+msgid "Specific Category"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-blog.php:56
+msgid "Select Category"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-blog.php:68
+#: includes/widgets/class-flash-widget-counter.php:59
+#: includes/widgets/class-flash-widget-cta.php:76
+#: includes/widgets/class-flash-widget-portfolio.php:66
+#: includes/widgets/class-flash-widget-service.php:88
+#: includes/widgets/class-flash-widget-team.php:80
+msgid "Widget Style"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-blog.php:73
+#: includes/widgets/class-flash-widget-counter.php:64
+#: includes/widgets/class-flash-widget-cta.php:81
+#: includes/widgets/class-flash-widget-portfolio.php:72
+#: includes/widgets/class-flash-widget-portfolio.php:82
+#: includes/widgets/class-flash-widget-service.php:93
+#: includes/widgets/class-flash-widget-slider.php:85
+#: includes/widgets/class-flash-widget-slider.php:96
+#: includes/widgets/class-flash-widget-slider.php:106
+#: includes/widgets/class-flash-widget-slider.php:112
+#: includes/widgets/class-flash-widget-team.php:86
+msgid "Styling"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-counter.php:28
+msgid "Add your animated number counter here."
+msgstr ""
+
+#: includes/widgets/class-flash-widget-counter.php:30
+msgid "FT: Animated Number Counter"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-counter.php:42
+#: includes/widgets/class-flash-widget-service.php:54
+msgid "FontAwesome Icon"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-counter.php:52
+#: includes/widgets/class-flash-widget-portfolio.php:52
+msgid "Number"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-cta.php:28
+msgid "CTA Widget."
+msgstr ""
+
+#: includes/widgets/class-flash-widget-cta.php:30
+msgid "FT: CTA"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-cta.php:35
+msgid "This is the title"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-cta.php:36
+msgid "Call to action Title"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-cta.php:41
+msgid "This is the subtitle"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-cta.php:42
+msgid "Call to Action Subtitle"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-cta.php:47
+#: includes/widgets/class-flash-widget-cta.php:61
+msgid "Button %s"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-cta.php:48
+msgid "Call to Action Button 1 Text"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-cta.php:55
+msgid "Call to Action Button 1 Link"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-cta.php:62
+msgid "Call to Action Button 2 Text"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-cta.php:69
+msgid "Call to Action Button 2 Link"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-heading.php:28
+msgid "Add your heading here."
+msgstr ""
+
+#: includes/widgets/class-flash-widget-heading.php:30
+msgid "FT: Heading"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-heading.php:36
+msgid "Heading"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-heading.php:41
+msgid "Sub Heading"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-image.php:28
+msgid "Add your advertisment image here."
+msgstr ""
+
+#: includes/widgets/class-flash-widget-image.php:30
+msgid "FT: Image"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-image.php:41
+msgid "Image Link"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-logo.php:28
+msgid "Add your clients/brand logo images here."
+msgstr ""
+
+#: includes/widgets/class-flash-widget-logo.php:30
+msgid "FT: Logo"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-logo.php:35
+msgid "Sortable Logos"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-logo.php:36
+msgid "Brand Logo"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-logo.php:37
+msgid "Add New Logo"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-logo.php:40
+msgid "Logo 1"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-logo.php:44
+msgid "Logo 2"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-portfolio.php:28
+msgid "Add your portfolio here."
+msgstr ""
+
+#: includes/widgets/class-flash-widget-portfolio.php:30
+msgid "FT: Portfolio"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-portfolio.php:37
+msgid "Select Project Category"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-portfolio.php:41
+msgid "All category"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-portfolio.php:60
+msgid "Show navigation filter."
+msgstr ""
+
+#: includes/widgets/class-flash-widget-portfolio.php:77
+msgid "Columns"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-service.php:28
+msgid "Add your service here."
+msgstr ""
+
+#: includes/widgets/class-flash-widget-service.php:30
+msgid "FT: Service"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-service.php:43
+msgid "Icon Type"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-service.php:45
+msgid "Icon Picker"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-service.php:46
+msgid "Image Uploader"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-service.php:62
+msgid "Upload an Image"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-slider.php:28
+msgid "Add your slider content here."
+msgstr ""
+
+#: includes/widgets/class-flash-widget-slider.php:30
+msgid "FT: Slider"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-slider.php:35
+msgid "Sortable Sliders"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-slider.php:36
+msgid "Brand Slider"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-slider.php:37
+msgid "Add New Slider"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-slider.php:41
+msgid "Slider 1"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-slider.php:66
+#: includes/widgets/class-flash-widget-slider.php:67
+msgid "Button Text"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-slider.php:71
+#: includes/widgets/class-flash-widget-slider.php:72
+msgid "Button Link"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-slider.php:79
+msgid "Slider Color Scheme"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-slider.php:81
+msgid "Dark Color"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-slider.php:82
+msgid "Light Color"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-slider.php:89
+msgid "slider-content-center"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-slider.php:90
+msgid "Slider Content Alignment"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-slider.php:92
+msgid "Center Align"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-slider.php:93
+msgid "Left Align"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-slider.php:100
+msgid "slider-control-center"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-slider.php:101
+msgid "Slider Controls Position"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-slider.php:111
+msgid "Check to make slide Full Viewport Height."
+msgstr ""
+
+#: includes/widgets/class-flash-widget-team.php:28
+msgid "Team Widget."
+msgstr ""
+
+#: includes/widgets/class-flash-widget-team.php:30
+msgid "FT: Team"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-team.php:36
+#: includes/widgets/class-flash-widget-testimonial.php:51
+#: includes/widgets/class-flash-widget-testimonial.php:52
+msgid "Name"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-team.php:43
+#: includes/widgets/class-flash-widget-testimonial.php:61
+#: includes/widgets/class-flash-widget-testimonial.php:62
+msgid "Designation"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-team.php:62
+msgid "Facebook Profile Link"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-team.php:68
+msgid "Twitter Profile Link"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-team.php:74
+msgid "Linkedin Profile Link"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-testimonial.php:28
+msgid "Add your testimonial content here."
+msgstr ""
+
+#: includes/widgets/class-flash-widget-testimonial.php:30
+msgid "FT: Testimonial"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-testimonial.php:35
+msgid "Sortable Testimonials"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-testimonial.php:36
+msgid "Brand Testimonial"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-testimonial.php:37
+msgid "Add New Testimonial"
+msgstr ""
+
+#: includes/widgets/class-flash-widget-testimonial.php:42
+msgid "Testimonial 1"
+msgstr ""
+
+#: templates/content-widget-blog.php:104
+msgid "Read More"
+msgstr ""
+
+#: templates/content-widget-portfolio.php:39
+msgid "Show All"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://themegrill.com/theme/flash"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Flash Toolkit is a companion for Flash WordPress theme by ThemeGrill"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeGrill"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themegrill.com"
+msgstr ""
+
+#: includes/admin/class-flash-admin-assets.php:89
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr ""
+
+#: includes/admin/class-flash-admin-assets.php:90
+msgctxt "enhanced select"
+msgid "Loading failed"
+msgstr ""
+
+#: includes/admin/class-flash-admin-assets.php:91
+msgctxt "enhanced select"
+msgid "Please enter 1 or more characters"
+msgstr ""
+
+#: includes/admin/class-flash-admin-assets.php:92
+msgctxt "enhanced select"
+msgid "Please enter %qty% or more characters"
+msgstr ""
+
+#: includes/admin/class-flash-admin-assets.php:93
+msgctxt "enhanced select"
+msgid "Please delete 1 character"
+msgstr ""
+
+#: includes/admin/class-flash-admin-assets.php:94
+msgctxt "enhanced select"
+msgid "Please delete %qty% characters"
+msgstr ""
+
+#: includes/admin/class-flash-admin-assets.php:95
+msgctxt "enhanced select"
+msgid "You can only select 1 item"
+msgstr ""
+
+#: includes/admin/class-flash-admin-assets.php:96
+msgctxt "enhanced select"
+msgid "You can only select %qty% items"
+msgstr ""
+
+#: includes/admin/class-flash-admin-assets.php:97
+msgctxt "enhanced select"
+msgid "Loading more results&hellip;"
+msgstr ""
+
+#: includes/admin/class-flash-admin-assets.php:98
+msgctxt "enhanced select"
+msgid "Searching&hellip;"
+msgstr ""
+
+#: includes/admin/class-flash-admin-permalink-settings.php:69
+#: includes/functions-flash-core.php:203
+msgctxt "slug"
+msgid "portfolio-category"
+msgstr ""
+
+#: includes/admin/class-flash-admin-permalink-settings.php:78
+#: includes/functions-flash-core.php:204
+msgctxt "slug"
+msgid "portfolio-tag"
+msgstr ""
+
+#: includes/admin/class-flash-admin-permalink-settings.php:174
+#: includes/functions-flash-core.php:202
+msgctxt "slug"
+msgid "portfolio"
+msgstr ""
+
+#: includes/functions-flash-portfolio.php:57
+msgctxt "slug"
+msgid "uncategorized"
+msgstr ""
+
+#: includes/admin/class-flash-admin-permalink-settings.php:89
+msgctxt "default-slug"
+msgid "project"
+msgstr ""
+
+#: includes/admin/class-flash-admin-permalink-settings.php:90
+msgctxt "default-slug"
+msgid "portfolio"
+msgstr ""
+
+#: includes/class-flash-post-types.php:54
+msgctxt "Admin menu name"
+msgid "Categories"
+msgstr ""
+
+#: includes/class-flash-post-types.php:89
+msgctxt "Admin menu name"
+msgid "Tags"
+msgstr ""
+
+#: includes/class-flash-post-types.php:138
+msgctxt "Admin menu name"
+msgid "Portfolio"
+msgstr ""
